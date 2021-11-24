@@ -3,22 +3,22 @@
 <plist version="1.0">
 <dict>
 	<key>albumName</key>
-	<string>FRIDAY</string>
+	<string>Back on My Bullshit</string>
 	<key>artistName</key>
-	<string>916frosty</string>
+	<string>Magnolia Park</string>
 	<key>coverURL</key>
-	<string>/Playbox.widget 2/lib/cover9.jpg</string>
+	<string>https://i.scdn.co/image/ab67616d0000b273ad9ad5960b45acbf13c30136</string>
 	<key>currentPosition</key>
-	<string>6</string>
+	<string>112</string>
 	<key>isLoved</key>
 	<string>false</string>
 	<key>oldFilename</key>
 	<string>/Users/liljack/Library/Application Support/Übersicht/widgets/Playbox.widget 2/lib/cover9.jpg</string>
 	<key>songChanged</key>
-	<string>true</string>
+	<string>false</string>
 	<key>songDuration</key>
-	<string>292</string>
+	<string>163</string>
 	<key>songName</key>
-	<string>FRIDAY</string>
+	<string>Back on My Bullshit</string>
 </dict>
 </plist>
